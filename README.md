@@ -7,5 +7,7 @@ Soy un desarrollador apasionado por la tecnología y en constante aprendizaje. M
 💡 Intereses: Desarrollo de software, nuevas tecnologías, programación y aprendizaje continuo.
 🎓 Actualmente: Estudiando Ingeniería Informática y fortaleciendo mis habilidades técnicas día a día.
 
-- 🌱 I’m currently learning ...
+🌱 Actualmente estoy aprendiendo C#, Linux y programación basada en diagramas de clases.
+💻 Experiencia trabajando con Python y Java a nivel intermedio.
 
+📫 Contacto: jr2996218@gmail.com

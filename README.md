@@ -28,7 +28,9 @@ Soy un desarrollador apasionado por la tecnología y en constante aprendizaje. M
 📊 Experiencia en modelado de software utilizando diagramas UML, incluyendo diagramas de clases y casos de uso.
 
 🌍 Idiomas
+
 Español: Nativo
+
 Inglés: Nivel A2 (básico)
 
 📫 Contacto: jr2996218@gmail.com

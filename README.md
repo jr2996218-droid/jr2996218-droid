@@ -12,17 +12,15 @@ Soy un desarrollador apasionado por la tecnología y en constante aprendizaje. M
 🌱 Actualmente estoy aprendiendo C#, Linux y programación basada en diagramas de clases.
 
 
+-🛠️ Habilidades técnicas
 
-🛠️ Habilidades técnicas
+-💻 Lenguajes: Python, Java, C#
 
-💻 Lenguajes: Python, Java, C#
+-🗄️ Bases de datos: MySQL
 
-🗄️ Bases de datos: MySQL
+-🖥️ Sistemas operativos: Windows, Linux
 
-🖥️ Sistemas operativos: Windows, Linux
-
-📊 Modelado: UML (diagramas de clases y casos de uso)
-
+-📊 Modelado: UML (diagramas de clases y casos de uso)
 
 
 🌐 Experiencia con Cisco Networking Academy.

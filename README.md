@@ -13,4 +13,8 @@ Soy un desarrollador apasionado por la tecnología y en constante aprendizaje. M
 
 💻 Experiencia trabajando con Python y Java a nivel intermedio.
 
+🌐 Experiencia con Cisco Networking Academy.
+
+📊 Experiencia en modelado de software utilizando diagramas UML, incluyendo diagramas de clases y casos de uso.
+
 📫 Contacto: jr2996218@gmail.com

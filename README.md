@@ -1,5 +1,6 @@
-## Hi there 👋
+👋 ¡Hola! Bienvenido a mi perfil
 
+Soy un desarrollador apasionado por la tecnología y en constante aprendizaje. Me gusta explorar nuevas herramientas, construir proyectos interesantes y mejorar mis habilidades cada día.
 <!--
 **jr2996218-droid/jr2996218-droid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
